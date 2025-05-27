@@ -1,7 +1,7 @@
 ![Header](https://github.com/lilYummy228/lilYummy228/blob/main/Assets/Title.jpg)
 
-# Меня зовут Илья
-### Я начинающий Разработчик Игр и Гейм-Дизайнер
+## Меня зовут Илья
+Я начинающий Разработчик Игр и Гейм-Дизайнер
 
-![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp)
-![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" width="120" alt="Unity">
