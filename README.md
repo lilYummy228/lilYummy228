@@ -9,5 +9,5 @@
 	<div style="float: left; width: 60%;">
 		Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
 	</div>
-		<img src="right.gif" style="float: right; width: 30%;">
+		<img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" style="float: right; width: 30%;">
 	<div style="clear: both;"></div>
