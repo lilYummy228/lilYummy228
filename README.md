@@ -11,5 +11,5 @@
     <div>
 
 </div>
-    <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" alt="GIF" style="width: 135px; height: 240px; align: right;">
+    <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" alt="GIF" style="width: 135px; height: 240px;" align="right">
 </div>
