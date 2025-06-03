@@ -1,14 +1,15 @@
 ![Header](https://github.com/lilYummy228/lilYummy228/raw/main/Assets/Title.jpg)
 
 <h1> Hello, world! </h1>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity">
+
 <p> 
 	Меня зовут Илья. Я опытный Разработчик Игр и Гейм-Дизайнер.
 </p>
 
 <h2> Мои проекты: </h2>
 
-<!-- Исправленный блок для Elementary Magic -->
 <h3>"Elementary Magic"</h3>
 <div style="display: flex; flex-direction: row; align-items: center; gap: 40px; margin: 20px 0; min-height: 250px;">
 <div style="flex: 1; padding-right: 30px; text-align: right;">
@@ -24,7 +25,6 @@
 </div>
 </div>
 
-<!-- Исправленный блок для Chronotrace -->
 <h3>"Chronotrace"</h3>
 <div style="display: flex; flex-direction: row; align-items: center; gap: 40px; margin: 20px 0; min-height: 150px;">
 <div style="flex: 1; padding-right: 30px; text-align: right;">
@@ -40,7 +40,6 @@
 </div>
 </div>
 
-<!-- Исправленный блок для Tasty Battle -->
 <h3>"Tasty Battle"</h3>
 <div style="display: flex; flex-direction: row; align-items: center; gap: 40px; margin: 20px 0; min-height: 150px;">
 <div style="flex: 1; padding-right: 30px; text-align: right;">
