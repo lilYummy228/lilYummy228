@@ -1,7 +1,7 @@
 ![Header](https://github.com/lilYummy228/lilYummy228/blob/main/Assets/Title.jpg)
 
 <h1> Hello, world! </h1>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity">
 <p> 
 	Меня зовут Илья. Я опытный Разработчик Игр и Гейм-Дизайнер.
 </p>
