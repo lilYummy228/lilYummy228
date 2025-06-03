@@ -1,10 +1,12 @@
 ![Header](https://github.com/lilYummy228/lilYummy228/blob/main/Assets/Title.jpg)
 
-<h2> Hello, world! </h2>
-Меня зовут Илья. Я опытный Разработчик Игр и Гейм-Дизайнер.
-
+<h1> Hello, world! </h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity">
+<p> 
+	Меня зовут Илья. Я опытный Разработчик Игр и Гейм-Дизайнер.
+</p>
 
+<h2> Мои проекты: </h2>
 <h3>"Elementary Magic"</h3>
 	<div style="display: flex; align-items: center;	justify-content: space-between; width: 60%; gap: 20px; padding: 20px;">
 		Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
