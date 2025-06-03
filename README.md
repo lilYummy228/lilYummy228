@@ -9,7 +9,7 @@
 	<div style="float: left; width: 60%;">
 		Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
 	</div>
-		<img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" style="float: right; width: 30%;">
+		<img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" style="float: right; width: 40%;">
 	<div style="clear: both;"></div>
 
 <h3>"Chronotrace"</h3>
@@ -23,5 +23,5 @@
 	<div style="float: left; width: 60%;">
 		Игра в жанре стратегии в реальном времени разработанная в рамках курса от школы Я-Юниор как командный проект.
 	</div>
-		<img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/TastyBattle.gif" style="float: right; width: 50%;">
+		<img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/TastyBattle.gif" style="float: right; width: 50%;" align="right">
 	<div style="clear: both;"></div>
