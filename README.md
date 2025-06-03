@@ -7,20 +7,24 @@
 </p>
 
 <h2> Мои проекты: </h2>
+<h3>"Elementary Magic"</h3>
+<div style="display: flex; align-items: center; gap: 40px;">
 
-<div style="display: flex; align-items: center; gap: 30px;">
+<!-- Текст слева с центрированием -->
+<div style="flex: 1;">
 
-  <div style="flex: 1; text-align: right;"> 
-  Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
-  </div>
+Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
 
-  <div style="flex-shrink: 0;">
-    <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" alt="GIF" style="width: 300px; border-radius: 12px;">
-  </div>
+---
 
 </div>
 
-<h3>"Elementary Magic"</h3>
+<!-- GIF справа с кастомным размером -->
+<div style="flex-shrink: 0;">
+  <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" alt="Игровой процесс" style="width: 300px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
+</div>
 	<div style="display: flex; align-items: center;	justify-content: space-between; width: 60%; gap: 20px; padding: 20px;">
 		Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
 		<img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" style="text-align: right; width: 40%; text-align: right; flex: 1;">
