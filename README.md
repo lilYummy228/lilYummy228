@@ -2,9 +2,9 @@
 
 <h1> Hello, world! </h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity">
-<div style="display: flex; align-items: center; gap: 40px; margin-bottom: 30px;">
+<p> 
 	Меня зовут Илья. Я опытный Разработчик Игр и Гейм-Дизайнер.
-</div>
+</p>
 
 <h2> Мои проекты: </h2>
 
@@ -19,7 +19,7 @@
 <div style="flex-shrink: 0;">
   <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/ElementaryMagic.gif" 
        alt="Match-3 Gameplay" 
-       style="width: 135px; height: 240; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="width: 135px; height: 240px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </div>
 </div>
 
@@ -34,7 +34,7 @@
 <div style="flex-shrink: 0;">
   <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/Chronotrace.gif" 
        alt="Chronotrace Gameplay" 
-       style="width: 240px; height: 135; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="width: 240px; height: 135px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </div>
 </div>
 
@@ -49,6 +49,6 @@
 <div style="flex-shrink: 0;">
   <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/TastyBattle.gif" 
        alt="Tasty Battle Gameplay" 
-       style="width: 240px; height: 135; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="width: 240px; height: 135px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </div>
 </div>
