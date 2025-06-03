@@ -5,19 +5,11 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity">
 
-<p>
-   <h3> "Elementary Magic" - </h3>
-       Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
-           <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" width="135px" height="240px" align="right">
-               <br> 
-           <a href="https://yandex.ru/games/app/396555?lang=ru" class="link-button" target="_blank" rel="noopener noreferrer">
-               Играть в Elementary Magic
-           </a>
-</p>
+<h2>"Elementary Magic" - </h2>
+    <div style="display: flex; align-items: center; gap: 20px;">
+        Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
+    <div>
 
-<p>
-    <h3> "Chronotrace" - </h3>
-        <align="left"> <alt="GIF"> <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/Chronotrace.gif" width="240px" height="135px"> </p>
-</p>
-    <h3> "Tasty Battle" - </h3>
-        <align="right"> <alt="GIF"> <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/TastyBattle.gif" width="240px" height="135px"> </p>
+</div>
+    <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" alt="GIF" style="max-width: 200px;">
+</div>
