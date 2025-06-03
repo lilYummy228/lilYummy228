@@ -13,15 +13,15 @@
 	<div style="clear: both;"> </div>
 
 <h3>"Chronotrace"</h3>
-	<div style="float: left; width: 60%; gap: 20px;">
+	<div style="display: flex; align-items: center;	justify-content: space-between; width: 60%; gap: 20px; padding: 20px;">
 		Игра, сделанная за 2 дня в рамках хакатона GGJam25.
+		<img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/Chronotrace.gif" style="text-align: right; width: 40%; text-align: right; flex: 1;">
 	</div>
-		<img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/Chronotrace.gif" style="float: right; width: 50%;">
-	<div style="clear: both;"></div>
+	<div style="clear: both;"> </div>
 
 <h3>"Tasty Battle"</h3>
-	<div style="float: left; width: 60%; gap: 20px;">
+	<div style="display: flex; align-items: center;	justify-content: space-between; width: 60%; gap: 20px; padding: 20px;">
 		Игра в жанре стратегии в реальном времени разработанная в рамках курса от школы Я-Юниор как командный проект.
+		<img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/TastyBattle.gif" style="text-align: right; width: 40%; text-align: right; flex: 1;">
 	</div>
-		<img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/TastyBattle.gif" style="float: right; width: 50%;">
-	<div style="clear: both;"></div>
+	<div style="clear: both;"> </div>
