@@ -15,11 +15,17 @@
 	<div style="clear: both;"> </div>
 
 <h3>"Chronotrace"</h3>
-	<div style="display: flex; align-items: center;	justify-content: space-between; width: 60%; gap: 20px; padding: 20px;">
-		Игра, сделанная за 2 дня в рамках хакатона GGJam25.
-		<img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/Chronotrace.gif" style="text-align: right; width: 40%; text-align: right; flex: 1;">
-	</div>
-	<div style="clear: both;"> </div>
+	<div style="display: flex; align-items: center; gap: 20px;">
+
+<div style="flex: 1;">
+
+Игра сделанная за 48 часов в рамках хакатона GGJam25.
+
+</div>
+
+<img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/Chronotrace.gif" alt="GIF" style="flex-shrink: 0; width: 300px;">
+
+</div>
 
 <h3>"Tasty Battle"</h3>
 	<div style="display: flex; align-items: center;	justify-content: space-between; width: 60%; gap: 20px; padding: 20px;">
