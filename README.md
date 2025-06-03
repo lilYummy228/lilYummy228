@@ -5,5 +5,5 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity">
 <p align="center">
-  <img class="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif">
+  <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" width="150px" height="200px">
 </p>
