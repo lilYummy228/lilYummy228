@@ -18,18 +18,18 @@
     </style>
 </head>
 
-<p>
-    <h3> "Elementary Magic" - </h3>
-        <div class="container">
-            Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
-                <align="right"> <alt="GIF"> <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" width="135px" height="240px"> </p>
-        </div>
-    
-    <a href="https://yandex.ru/games/app/396555?lang=ru" class="link-button" target="_blank" rel="noopener noreferrer">
-        Играть в Elementary Magic
-    </a>
-
-</p>
+<body>
+    <p>
+        <h3> "Elementary Magic" - </h3>
+            <div class="container">
+                Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
+                    <align="right"> <alt="GIF"> <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" width="135px" height="240px"> </p>
+            </div>    
+            <a href="https://yandex.ru/games/app/396555?lang=ru" class="link-button" target="_blank" rel="noopener noreferrer">
+                Играть в Elementary Magic
+            </a>
+    </p>
+</body>
 
 <h3> "Chronotrace" - </h3>
   <p align="left"> <alt="GIF"> <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/Chronotrace.gif" width="240px" height="135px"> </p>
