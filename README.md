@@ -10,47 +10,47 @@
 
 <h2> Мои проекты: </h2>
 
-<h3>"Elementary Magic"</h3>
-<div style="display: flex; flex-direction: row; align-items: center; gap: 40px; margin: 20px 0; min-height: 250px;">
-<div style="flex: 1; padding-right: 30px; text-align: right;">
-
-**Match-3.**  
-Была сделана в рамках курса от школы Я-Юниор как соло проект.
-
-</div>
-<div style="flex-shrink: 0;">
-  <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/ElementaryMagic.gif" 
-       alt="Match-3 Gameplay" 
-       style="width: 135px; height: 240px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-</div>
-</div>
-
-<h3>"Chronotrace"</h3>
-<div style="display: flex; flex-direction: row; align-items: center; gap: 40px; margin: 20px 0; min-height: 150px;">
-<div style="flex: 1; padding-right: 30px; text-align: right;">
-
-**Детективная история**  
-Игра, созданная за 48 часов в рамках хакатона GGJam25.
-
-</div>
-<div style="flex-shrink: 0;">
-  <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/Chronotrace.gif" 
-       alt="Chronotrace Gameplay" 
-       style="width: 240px; height: 135px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-</div>
-</div>
-
-<h3>"Tasty Battle"</h3>
-<div style="display: flex; flex-direction: row; align-items: center; gap: 40px; margin: 20px 0; min-height: 150px;">
-<div style="flex: 1; padding-right: 30px; text-align: right;">
-
-**Стратегия в реальном времени**  
-Игра в жанре стратегии в реальном времени разработанная в рамках курса от школы Я-Юниор как командный проект.
-
-</div>
-<div style="flex-shrink: 0;">
-  <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/TastyBattle.gif" 
-       alt="Tasty Battle Gameplay" 
-       style="width: 240px; height: 135px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-</div>
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <h3>"Elementary Magic"</h3>
+      <p><strong>Match-3</strong><br>
+      Была сделана в рамках курса от школы Я-Юниор как соло проект.</p>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/ElementaryMagic.gif" 
+           width="135" 
+           style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.15)">
+    </td>
+  </tr>
+  
+  <tr><td colspan="2"><hr></td></tr>
+  
+  <tr>
+    <td width="60%" valign="middle">
+      <h3>"Chronotrace"</h3>
+      <p><strong>Детективная история</strong><br>
+      Игра, созданная за 48 часов в рамках хакатона GGJam25.</p>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/Chronotrace.gif" 
+           width="240" 
+           style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.15)">
+    </td>
+  </tr>
+  
+  <tr><td colspan="2"><hr></td></tr>
+  
+  <tr>
+    <td width="60%" valign="middle">
+      <h3>"Tasty Battle"</h3>
+      <p><strong>Стратегия в реальном времени</strong><br>
+      Разработана в рамках курса от школы Я-Юниор как командный проект.</p>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/TastyBattle.gif" 
+           width="240" 
+           style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.15)">
+    </td>
+  </tr>
+</table>
