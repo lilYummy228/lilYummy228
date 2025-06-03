@@ -13,6 +13,8 @@
 
 Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
 
+<br> <br> <br> <br>
+
 <h3>"Chronotrace"</h3>
 	<div style="display: flex; align-items: center;	justify-content: space-between; width: 60%; gap: 20px; padding: 20px;">
 		Игра, созданная за 48 часов в рамках хакатона GGJam25.
