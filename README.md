@@ -45,7 +45,7 @@
       </a> </u>
     </td>
   </tr>
-  
+
   <tr>
     <td width="50%" valign="middle" align="left">
       <h3>"Tasty Battle"</h3>
@@ -64,7 +64,7 @@
 
   <tr>
     <td width="50%" valign="middle" align="center">
-    <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/Chronotrace.gif" 
+    <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/NightGatheringsTitleLogoEn.png" 
            width="240" 
            style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.15)">      
     </td>
@@ -75,5 +75,4 @@
       <u> Находится в разработке </u>
     </td>
   </tr>
-
 </table>
