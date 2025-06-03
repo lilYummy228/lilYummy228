@@ -14,13 +14,13 @@
 <h2> Мои проекты: </h2>
 
 <table border="0" style="border-collapse: collapse; border-spacing: 0;">
-  <tr>
-    <td width="50%" valign="middle">
+  <tr style="border: none;">
+    <td style="border: none;" width="50%" valign="middle">
       <h3>"Elementary Magic"</h3>
       <p><strong>Соедини элементы</strong><br>
       Была сделана в рамках курса от школы Я-Юниор как соло проект.</p>
     </td>
-    <td width="50%" valign="middle" align="center">
+    <td style="border: none;" width="50%" valign="middle" align="center">
       <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/ElementaryMagic.gif" 
            width="135" 
            style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.15)">
