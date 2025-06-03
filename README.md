@@ -5,11 +5,11 @@
 	Меня зовут Илья. Я опытный Разработчик игр и Гейм-дизайнер. В частности работаю с WEB-проектами на Яндекс.Играх, где как раз и выкладываю свои готовые работы.
 </div>
 
-<div style="display: flex; gap: 20px; align-items: center;">
+<p> <div style="display: flex; gap: 20px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="60" alt="Unity">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" alt="C#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" alt="Visual Studio">
-</div>
+</div> </p>
 
 <h2> Мои проекты: </h2>
 
