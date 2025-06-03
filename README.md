@@ -13,14 +13,17 @@
 
 <h2> Мои проекты: </h2>
 
-<table border="0" style="border-collapse: collapse; border-spacing: 0;">
-  <tr style="border: none;">
-    <td style="border: none;" width="50%" valign="middle">
+<table>
+  <tr>
+    <td width="50%" valign="middle" align="left">
       <h3>"Elementary Magic"</h3>
-      <p><strong>Соедини элементы</strong><br>
+      <p><strong><i>Соедини элементы</i></strong><br>
       Была сделана в рамках курса от школы Я-Юниор как соло проект.</p>
+      <a href="https://yandex.ru/games/app/396555?lang=ru" class="link-button"> <u>
+        Играть в Elementary Magic
+      </a> </u>
     </td>
-    <td style="border: none;" width="50%" valign="middle" align="center">
+    <td width="50%" valign="middle" align="center">
       <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/ElementaryMagic.gif" 
            width="135" 
            style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.15)">
@@ -33,18 +36,24 @@
            width="240" 
            style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.15)">      
     </td>
-    <td width="50%" valign="middle">
+    <td width="50%" valign="middle" align="right">
       <h3>"Chronotrace"</h3>
-      <p><strong>Детективная история</strong><br>
+      <p><strong><i>Детективная история</i></strong><br>
       Игра, созданная за 48 часов в рамках хакатона GGJam25.</p>
+      <a href="https://kuromek.itch.io/chronotrace" class="link-button"> <u>
+        Играть в Chronotrace
+      </a> </u>
     </td>
   </tr>
   
   <tr>
-    <td width="50%" valign="middle">
+    <td width="50%" valign="middle" align="left">
       <h3>"Tasty Battle"</h3>
-      <p><strong>Стратегия в реальном времени</strong><br>
+      <p><strong><i>Стратегия в реальном времени</i></strong><br>
       Разработана в рамках курса от школы Я-Юниор как командный проект.</p>
+      <a href="https://yandex.ru/games/app/431091?lang=ru" class="link-button"> <u>
+        Играть в Tasty Battle
+      </a> </u>
     </td>
     <td width="50%" valign="middle" align="center">
       <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/TastyBattle.gif" 
