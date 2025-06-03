@@ -4,7 +4,8 @@
 Меня зовут Илья. Я опытный Разработчик Игр и Гейм-Дизайнер.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity">
-<p>
+
+<head>
     <style>
         .container {
             display: flex;
@@ -28,16 +29,18 @@
             border-radius: 8px;
         }
     </style>
+</head>
 
-<h3> "Elementary Magic" - </h3>
-    <div class="container">
-        <div class="text-content">
-        Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
+<p>
+    <h3> "Elementary Magic" - </h3>
+        <div class="container">
+            <div class="text-content">
+                Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
+            </div>
+        <div class="gif-container">
+            <alt="GIF"> <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif">
         </div>
-    <div class="gif-container">
-        <alt="GIF"> <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif">
     </div>
-  </div>
 
 <a href="https://yandex.ru/games/app/396555?lang=ru" class="link-button" target="_blank" rel="noopener noreferrer">
     Играть в Elementary Magic
