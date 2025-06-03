@@ -8,12 +8,10 @@
 
 <h2> Мои проекты: </h2>
 <h3>"Elementary Magic"</h3>
-	</div>
-	<div style="display: flex; align-items: center;	justify-content: space-between; width: 60%; gap: 20px; padding: 20px;">
-		Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
-		<img align="right" alt="GIF" img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif">
-	</div>
-	<div style="clear: both;"> </div>
+
+<img align="right" height="240" width="135" alt="GIF" img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif">
+
+Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
 
 <h3>"Chronotrace"</h3>
 	<div style="display: flex; align-items: center;	justify-content: space-between; width: 60%; gap: 20px; padding: 20px;">
