@@ -61,4 +61,19 @@
            style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.15)">
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="middle" align="center">
+    <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/Chronotrace.gif" 
+           width="240" 
+           style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.15)">      
+    </td>
+    <td width="50%" valign="middle" align="right">
+      <h3>"Night Gatherings"</h3>
+      <p><strong><i>Хоррор-кликер</i></strong><br>
+      Pet-проект, для тренировки в создании собственных спрайт-ассетов.</p>
+      <u> Находится в разработке </u>
+    </td>
+  </tr>
+
 </table>
