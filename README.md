@@ -3,16 +3,13 @@
 <h2> Hello, world! </h2>
 Меня зовут Илья. Я опытный Разработчик Игр и Гейм-Дизайнер.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity">
 
 <p>
 
   <h3> "Elementary Magic" - </h3>
   Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект. 
 <align="right"> <alt="GIF"> <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" width="108px" height="192px">
-
-<br>
 
 <a href="https://yandex.ru/games/app/396555?lang=ru" class="link-button" target="_blank" rel="noopener noreferrer">
     Играть в Elementary Magic
