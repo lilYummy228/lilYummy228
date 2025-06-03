@@ -11,7 +11,7 @@
 	</div>
 	<div style="display: flex; align-items: center;	justify-content: space-between; width: 60%; gap: 20px; padding: 20px;">
 		Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
-		<img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" style="text-align: right; width: 40%; text-align: right; flex: 1;">
+		<img align="right" alt="GIF" img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif">
 	</div>
 	<div style="clear: both;"> </div>
 
