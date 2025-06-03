@@ -9,8 +9,8 @@
 	<div style="display: flex; align-items: center;	justify-content: space-between; width: 60%; gap: 20px; padding: 20px;">
 		Моя первая игра в жанре "Match-3". Была сделана в рамках курса от школы Я-Юниор как соло проект.
 		<img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" style="text-align: right; width: 40%; text-align: right; flex: 1;">
-	<div style="clear: both;"></div>
 	</div>
+	<div style="clear: both;"> </div>
 
 <h3>"Chronotrace"</h3>
 	<div style="float: left; width: 60%; gap: 20px;">
