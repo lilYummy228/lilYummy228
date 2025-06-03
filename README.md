@@ -2,9 +2,9 @@
 
 <h1> Hello, world! </h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity">
-<p> 
+<div style="display: flex; align-items: center; gap: 40px; margin-bottom: 30px;">
 	Меня зовут Илья. Я опытный Разработчик Игр и Гейм-Дизайнер.
-</p>
+</div>
 
 <h2> Мои проекты: </h2>
 
