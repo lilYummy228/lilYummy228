@@ -19,7 +19,7 @@
 
 <!-- GIF справа с кастомным размером -->
 <div style="flex-shrink: 0;">
-  <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" alt="Игровой процесс" style="width: 300px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github.com/lilYummy228/lilYummy228/blob/main/Assets/ElementaryMagic.gif" alt="Игровой процесс" style="width: 300px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" align="right">
 </div>
 
 ---
