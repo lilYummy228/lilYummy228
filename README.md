@@ -72,8 +72,8 @@
       <h3>"Night Gatherings"</h3>
       <p><strong><i>Хоррор-кликер</i></strong><br>
       Pet-проект, для тренировки в создании собственных спрайт-ассетов. Сборка быстрого проекта. </p>
-       <a href="https://yandex.ru/games/app/440369?draft=true&lang=ru" class="link-button"> <u>
-        Играть в Night Gatherings
+       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="link-button"> <u>
+        Проходит модерацию...
       </a> </u>
     </td>
   </tr>
