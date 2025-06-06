@@ -64,15 +64,17 @@
 
   <tr>
     <td width="50%" valign="middle" align="center">
-    <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/NightGatheringsTitleLogoEn.png" 
+    <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/NightGatherings.gif" 
            width="240" 
            style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.15)">      
     </td>
     <td width="50%" valign="middle" align="right">
       <h3>"Night Gatherings"</h3>
       <p><strong><i>Хоррор-кликер</i></strong><br>
-      Pet-проект, для тренировки в создании собственных спрайт-ассетов.</p>
-      <p> <u> Находится в разработке... </u> </p>
+      Pet-проект, для тренировки в создании собственных спрайт-ассетов. Сборка быстрого проекта. </p>
+       <a href="https://yandex.ru/games/app/440369?draft=true&lang=ru" class="link-button"> <u>
+        Играть в Night Gatherings
+      </a> </u>
     </td>
   </tr>
 </table>
