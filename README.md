@@ -10,7 +10,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" alt="C#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" alt="Visual Studio">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" alt="Blender">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="50" alt="Photoshop">
 </div> </p>
 
 <h2> Мои проекты: </h2>
@@ -79,4 +78,11 @@
       </a> </u>
     </td>
   </tr>
-</table>
+</table>    
+<h3>Ищите меня здесь</h3>
+    <a href="https://t.me/Mylarshikoff" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+    <a href="mailto:MaxiMail5000@mail.ru">
+        <img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Mail.ru">
+    </a>
