@@ -83,6 +83,6 @@
     <a href="https://t.me/Mylarshikoff" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
-    <a href="mailto:MaxiMail5000@mail.ru">
-        <img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Mail.ru">
+    <a href="https://discordapp.com/users/356044842914021378" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
