@@ -78,6 +78,22 @@
       </a> </u>
     </td>
   </tr>
+
+   <tr>
+    <td width="50%" valign="middle" align="left">
+      <h3>"Scum Arena"</h3>
+      <p><strong><i>Пошаговая стратегия</i></strong><br>
+      Разрабатывается как последний проект в рамках курса от школы Я-Юниор как соло проект.</p>
+      <a href="https://www.youtube.com/watch?v=Cxmvq1MCR3c" class="link-button"> <u>
+        В разработке...
+      </a> </u>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <img src="" 
+           width="240" 
+           style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.15)">
+    </td>
+  </tr>
 </table>    
 <h3>Ищите меня здесь</h3>
     <a href="https://t.me/Mylarshikoff" target="_blank">
