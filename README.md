@@ -89,7 +89,7 @@
       </a> </u>
     </td>
     <td width="50%" valign="middle" align="center">
-      <img src="https://github.com/lilYummy228/lilYummy228/raw/main/Assets/Ждун.jpg"
+      <img src=""
            width="240" 
            style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.15)">
     </td>
